@@ -1,4 +1,4 @@
-# Projeto Cypress para Validação da API Simple Books API
+# Projeto Cypress para Validação da API Simple Books
 
 Este projeto Cypress realiza a validação da API Simple Books, incluindo a verificação do status da API, do endpoint de boas-vindas e da criação de novas ordens.
 
