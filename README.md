@@ -26,7 +26,7 @@ npm install
 npx cypress open
 ```
 
-4. Voçe pode rodar os testes via cmd
+4. Voc pode rodar os testes via cmd
 
 ```bash
 npx cypress run 
