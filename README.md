@@ -36,15 +36,15 @@ Isso iniciará a execução dos testes do Cypress. Os resultados dos testes ser�
 ## Arquivos de Teste
 Este projeto inclui os seguintes arquivos de teste:
 
-### 1. `getstatus.js`
+### 1. `GetStatus.cy.js`
 
 Este arquivo de teste verifica o status da API e seus campos. Ele realiza uma solicitação GET para o endpoint `/status` da API e verifica se o código de status é 200 (OK) e se os campos da resposta estão corretos.
 
-### 2. `getwelcome.js`
+### 2. `GetWelcome.cy.js`
 
 Este arquivo de teste verifica o status da API e seus campos. Ele realiza uma solicitação GET para o endpoint `/welcome` da API e verifica se o código de status é 200 (OK) e se os campos da resposta estão corretos.
 
-### 3. `postOrder.js`
+### 3. `PostNewOrder.cy.js`
 
 Este arquivo de teste valida o envio de uma nova ordem válida. Ele realiza uma solicitação POST para o endpoint `/orders` da API, incluindo os dados necessários no corpo da solicitação. Em seguida, verifica se a API responde com um código de status 201 (Created) e se a resposta contém a propriedade `created` definida como `true`.
 
