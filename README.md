@@ -11,7 +11,7 @@ Antes de executar os testes, certifique-se de ter o [Cypress](https://docs.cypre
 1. Clone o repositório para o seu ambiente local:
 
 ```bash
-git clone https://github.com/TiagoH-Alves/SempreIt.git
+git clone https://github.com/TiagoH-Alves/git clone https://github.com/TiagoH-Alves/SempreIt.git
 ```
 
 2. Instale as dependências:
